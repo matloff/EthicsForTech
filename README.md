@@ -51,12 +51,17 @@ from the *Internet Encyclopedia of Philosophy*
 
 ## Data privacy
 
+[Data Scientists Square Off Over Trust and Privacy in 2020 Census](https://www.bloomberg.com/news/articles/2021-08-12/data-scientists-ask-can-we-trust-the-2020-census),
+data privacy may be easier said than done
+
 [Apple-FBI encryption
 debate](https://www.wired.com/story/apple-fbi-iphone-encryption-pensacola/),
 *Wired*, January 16, 2020
 
 [Corporate Executives Couldn\'t Care Less About Civil Liberties](http://www.counterpunch.org/2014/09/15/corporate-executives-couldnt-care-less-about-civil-liberties/),
 Bill Blunden, *Counterpunch*, September 15, 2014
+
+
 
 ## Ethics and culture
 

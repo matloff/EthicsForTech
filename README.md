@@ -21,12 +21,12 @@ may confront them in the future, as tech professionals, managers and even
 entrepreneurs.**
 
 I'm making this reading list available publicly in case other
-instructors may find it useful.
+instructors, at other institutions or my own, may find it useful.
 
 # Readings
 
 Arranged in several topical units.  A small number of items may require
-access via the UCD library; if you are not a UCD affiliate, your own
+online access via the UCD library; if you are not a UCD affiliate, your own
 library may have access.
 
 ## Preparatory:  critical thinking, analytical tools
@@ -50,7 +50,7 @@ hospitalized are vaccinated?](https://www.covid-datascience.com/post/israeli-dat
 *Covid-19 Data Science* (blog), Prof. Jeffery Morris, University of
 Pennsylvania, August 15, 2021
 
-[Simpson's Paradox Is Back/](https://matloff.wordpress.com/2014/04/21/simpsons-paradox-is-back/),
+[Simpson's Paradox Is Back](https://matloff.wordpress.com/2014/04/21/simpsons-paradox-is-back/),
 N. Matloff, April 21, 2014
 
 [New Climate Model to Be Built from the Ground
@@ -63,12 +63,12 @@ Caltech news site
 from the *Internet Encyclopedia of Philosophy*
 
 [What Was Volkswagen Thinking?](http://www.theatlantic.com/magazine/archive/2016/01/what-was-volkswagen-thinking/419127/),
-*The Atlantic* , Jan./Feb. 2016 (limited free access)
+*The Atlantic* , Jan./Feb. 2016 
 
 ## Data privacy
 
-*Privacy is dead, and social media holds the smoking gun* -- Privacy is
-dead, and social media holds the smoking gun
+*Privacy is dead, and social media holds the smoking gun* -- Mashable
+CEO Pete Cashmore
 
 *Privacy with medical information is a fallacy. If everyone’s
 information is out there, it’s part of the collective* -- Craig Venter,
@@ -135,15 +135,13 @@ bingo card for excuses given by men for the dearth of female engineers
 ![alt text](https://pbs.twimg.com/media/Bzd-57YCYAEeUht?format=jpg&name=medium
 )
 
-### Definitions
+### Race
 
 [What are racism and sexisim?](https://voicethread.com/myvoice/thread/15778589/98729948/91052359),
 Michael Lewis, Hunter College
 
 ["Racist" Is a Tough Little Word](https://www.theatlantic.com/ideas/archive/2019/07/racism-concept-change/594526/),
 John McWhorter (Columbia University), *The Atlantic*, July 24, 2019
-
-### Race
 
 [Minorities Face Challenges in Securing STEM Jobs](https://www.cvilletomorrow.org/articles/minorities-face-challenges-in-securing-stem-jobs/), 
 *Charlottesville Tomorrow*, May 17, 2019
@@ -155,7 +153,7 @@ Silicon Valley and the Bay Area
 [Why Doesn’t Silicon Valley Hire Black
 Coders?](https://blackmeninamerica.com/why-doesnt-silicon-valley-hire-black-coders/), March 23, 2016, Black Men in America
 
-[Google’s approach to historically Black schools helps explain why there are few Black engineers in Big Tech](https://www.washingtonpost.com/technology/2021/03/04/google-hbcu-recruiting/) (may need to access via UCD online library)
+[Google’s approach to historically Black schools helps explain why there are few Black engineers in Big Tech](https://www.washingtonpost.com/technology/2021/03/04/google-hbcu-recruiting/) 
 
 ### Gender
 

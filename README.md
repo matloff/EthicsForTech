@@ -9,7 +9,9 @@ Norm Matloff, UC Davis
 # Background
 
 I'm a Professor of Computer Science at the University of California,
-Davis.  Our department has its own in-house ethics course, required for
+Davis.  [Here is my bio.](http://heather.cs.ucdavis.edu/matloff.html)
+
+Our department has its own in-house ethics course, required for
 our Computer Science and Engineering majors (this program's
 accreditation requires students to have some exposure to ethics), and
 popular with our Computer Science majors.
@@ -19,15 +21,17 @@ may confront them in the future, as tech professionals, managers and even
 entrepreneurs.**
 
 I'm making this reading list available publicly in case other
-instructors may fine it useful.
+instructors may find it useful.
 
 # Readings
 
-Arranged in several topical units.
+Arranged in several topical units.  A small number of items may require
+access via the UCD library; if you are not a UCD affiliate, your own
+library may have access.
 
 ## Preparatory:  critical thinking, analytical tools
 
-*The first principle is that you must not fool yourself and you are the
+*The first principle is that you must not fool yourself, and you are the
 easiest person to fool* -- Richard Feynman, Nobel physicist
 
 ### Logic
@@ -149,11 +153,19 @@ warning: offensive language and tone, but a common view in
 Silicon Valley and the Bay Area
 
 [Why Doesn’t Silicon Valley Hire Black
-Coders?](https://blackmeninamerica.com/why-doesnt-silicon-valley-hire-black-coders/)
+Coders?](https://blackmeninamerica.com/why-doesnt-silicon-valley-hire-black-coders/), March 23, 2016, Black Men in America
 
 [Google’s approach to historically Black schools helps explain why there are few Black engineers in Big Tech](https://www.washingtonpost.com/technology/2021/03/04/google-hbcu-recruiting/) (may need to access via UCD online library)
 
 ### Gender
+
+[Male and Female Entrepreneurs Get Asked Different Questions by VCs — and It Affects How Much Funding They Get](https://hbr.org/2017/06/male-and-female-entrepreneurs-get-asked-different-questions-by-vcs-and-it-affects-how-much-funding-they-get),
+Dana Kanze (London Business School), Laura Huang (Harvard Business School
+), Mark A. Conley (Stockholm School of Economics), and E. Tory Higgins 
+(Columbia University), *Harvard Business Review*, June 27, 2017
+
+[The Tech Industry’s Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem?utm_source=NYR_REG_GATE),
+Sheelah Kolhatkar, *The New Yorker*, November, 13, 2017
 
 ### Age
 

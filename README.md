@@ -53,17 +53,10 @@ Pennsylvania, August 15, 2021
 [Simpson's Paradox Is Back](https://matloff.wordpress.com/2014/04/21/simpsons-paradox-is-back/),
 N. Matloff, April 21, 2014
 
-[New Climate Model to Be Built from the Ground
-Up](https://www.caltech.edu/about/news/new-climate-model-be-built-ground-84636),
-Caltech news site
-
 ## General ethical principles
 
 [Applied Ethics, Sections 3 and 5b](http://www.iep.utm.edu/ap-ethic/#SH5), 
 from the *Internet Encyclopedia of Philosophy*
-
-[What Was Volkswagen Thinking?](http://www.theatlantic.com/magazine/archive/2016/01/what-was-volkswagen-thinking/419127/),
-*The Atlantic* , Jan./Feb. 2016 
 
 ## Data privacy
 
@@ -94,6 +87,22 @@ Bill Blunden, *Counterpunch*, September 15, 2014
 [Data Scientists Square Off Over Trust and Privacy in 2020 Census](https://www.bloomberg.com/news/articles/2021-08-12/data-scientists-ask-can-we-trust-the-2020-census),
 data privacy may be easier said than done
 
+## Tech and the Environment
+
+[New Climate Model to Be Built from the Ground
+Up](https://www.caltech.edu/about/news/new-climate-model-be-built-ground-84636),
+Caltech news site
+
+[What Was Volkswagen Thinking?](http://www.theatlantic.com/magazine/archive/2016/01/what-was-volkswagen-thinking/419127/),
+*The Atlantic* , Jan./Feb. 2016 
+
+[The 10-Page Machine Learning
+Book](https://github.com/matloff/regtools/blob/master/inst/MLOverview.md),
+N. Matloff (overview of machine learning)
+
+[The carbon impact of artificial
+intelligence](https://www.nature.com/articles/s42256-020-0219-9?proof=t),
+*Nature Machine Intelligence*, 2, 2020
 
 ## Ethics and culture
 
@@ -193,10 +202,6 @@ larger than before. As leaders, it is incumbent on all of us to make
 sure we are building a world in which every individual has an
 opportunity to thrive* -- Andrew Ng, AI entrepreneur, former Stanford CS
 professor
-
-[The 10-Page Machine Learning
-Book](https://github.com/matloff/regtools/blob/master/inst/MLOverview.md),
-N. Matloff (overview of machine learning)
 
 [Bias In, Bias Out](https://www.law.upenn.edu/live/files/6104-sandy-mayson-optimizing-government-project-11-3-16),
 Sandy Mayson, University of Pennsylvania Law School

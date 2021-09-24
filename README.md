@@ -87,7 +87,7 @@ Bill Blunden, *Counterpunch*, September 15, 2014
 [Data Scientists Square Off Over Trust and Privacy in 2020 Census](https://www.bloomberg.com/news/articles/2021-08-12/data-scientists-ask-can-we-trust-the-2020-census),
 data privacy may be easier said than done
 
-## Tech and the Environment
+## Tech and the environment
 
 [New Climate Model to Be Built from the Ground
 Up](https://www.caltech.edu/about/news/new-climate-model-be-built-ground-84636),
@@ -100,9 +100,10 @@ Caltech news site
 Book](https://github.com/matloff/regtools/blob/master/inst/MLOverview.md),
 N. Matloff (overview of machine learning)
 
-[The carbon impact of artificial
-intelligence](https://www.nature.com/articles/s42256-020-0219-9?proof=t),
-*Nature Machine Intelligence*, 2, 2020
+[Energy and Policy Considerations for Deep Learning in
+NLP](https://arxiv.org/pdf/1906.02243.pdf), 
+Emma Strubell, Ananya Ganesh, Andress McCallum, University of
+Massachusetts Amhearst, June 5, 2019
 
 ## Ethics and culture
 
@@ -219,9 +220,4 @@ Richard Ribón Fletcher (MIT),
 Audace Nakeshimana (MIT), 
 Olusubomi Olubeko (University of Massachusetts Medical School), 
 *Frontiers in Artificial Intelligence*, April 15, 2021
-
-[Energy and Policy Considerations for Deep Learning in
-NLP](https://arxiv.org/pdf/1906.02243.pdf), 
-Emma Strubell, Ananya Ganesh, Andress McCallum, University of
-Massachusetts Amhearst, June 5, 2019
 

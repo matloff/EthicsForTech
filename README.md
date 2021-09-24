@@ -89,6 +89,9 @@ data privacy may be easier said than done
 
 ## Tech and the environment
 
+*Everyone talks about the weather, but no one does anything about it* --
+famous American humorist Mark Twain
+
 [New Climate Model to Be Built from the Ground
 Up](https://www.caltech.edu/about/news/new-climate-model-be-built-ground-84636),
 Caltech news site

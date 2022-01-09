@@ -18,8 +18,11 @@ popular with our Computer Science majors.
 
 **I teach the course with the aim of having students ponder issues that
 may confront them in the future, as tech professionals, managers and even
-entrepreneurs.**  Note that in some instances, ethical issuea are also
-legal issues; those ignorant of the law may be at risk.
+entrepreneurs.**  
+
+Note that in some instances, ethical issuea are also legal issues.  The
+law is after all in many cases codification of our more consequential
+ethical holdings.  And, those ignorant of the law may be at risk.
 
 The course also has the goals of getting often-reticent tech majors to
 speak up, and to engage in critical thinking.
@@ -78,6 +81,7 @@ from the *Internet Encyclopedia of Philosophy*
 [The Obsolete Science Behind Roe v. Wade](https://www.wsj.com/articles/the-obsolete-science-behind-roe-v-wade-abortion-fetus-supreme-court-ultrasound-11635449644), *Wall Street Journal*, October 28, 2021, and 
 [The Dishonesty of the Abortion Debate](https://www.theatlantic.com/magazine/archive/2019/12/the-things-we-cant-face/600769/), Caitlin Flanagan, *The Atlantic*,
 December 2019
+[New York Announces That Scarce Covid-19 Treatments Will Be Prioritized For Non-White Patients](https://jonathanturley.org/2022/01/03/new-york-announces-that-scarce-covid-19-treatments-will-be-prioritized-for-non-white-patients/), Jonathan Turley
 
 ## Data privacy
 
